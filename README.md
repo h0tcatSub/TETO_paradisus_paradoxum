@@ -1,0 +1,2 @@
+# TETO_paradisus_paradoxum
+Paradisus Paradoxumの重音テトカバー
